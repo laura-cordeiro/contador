@@ -1,1 +1,1 @@
-Contador feito durante o curso de JavaScript do canal do YOuTube "Curso em Vídeo"
+Contador feito durante o curso de JavaScript do canal do YouTube "Curso em Vídeo"
